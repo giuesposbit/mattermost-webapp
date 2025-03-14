@@ -71,7 +71,7 @@
     "semver": "6.3.0",
     "superagent": "5.1.0",
     "typescript": "3.7.4",
-    "xregexp": "4.2.4",
+    "xregexp": "4.3.0",
     "zen-observable": "0.8.14"
   },
   "devDependencies": {
