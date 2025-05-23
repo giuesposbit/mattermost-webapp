@@ -12,7 +12,7 @@
     "@types/highlight.js": "9.12.3",
     "@types/redux-mock-store": "1.0.1",
     "@typescript-eslint/parser": "2.6.0",
-    "bootstrap": "3.4.1",
+    "bootstrap": "4.0.0",
     "bootstrap-colorpicker": "2.5.2",
     "chart.js": "2.8.0",
     "compass-mixins": "0.12.10",
