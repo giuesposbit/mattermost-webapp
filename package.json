@@ -69,7 +69,7 @@
     "regenerator-runtime": "0.13.3",
     "reselect": "4.0.0",
     "semver": "6.3.0",
-    "superagent": "5.1.0",
+    "superagent": "10.2.2",
     "typescript": "3.7.4",
     "xregexp": "4.2.4",
     "zen-observable": "0.8.14"
